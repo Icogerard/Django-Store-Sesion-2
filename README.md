@@ -21,7 +21,7 @@ NOTA PROYECTO DE SESIÓN. Información extra y dependencias.
 
 
 
-En esta sesión podremos modificar nuestro views.py de nuestra app core, añadiéndole una función que nos retornara una vista. 
+En esta sesión podremos modificar nuestro views.py de nuestra app core, añadiéndole una función que nos retornará una vista. 
 Dicha vista la almacenaremos en un template, o para esta sesión en dos templates. 
 
 Será necesario crear un fichero urls.py para nuestra app core. 
